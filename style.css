@@ -43,7 +43,7 @@ body{
 
 .card-blue {
   background-color: #8EB8E5;
-  padding:60px;
+  padding:50px;
 }
 
 .card-blue2 
@@ -59,7 +59,8 @@ body{
 
 .card-blue4 {
   background-color: #63B995;
-  padding:60px;
+  padding: 50px;
+  padding-bottom: 85px;
 }
 
 .card h2 {
@@ -107,3 +108,7 @@ color: lightblue;
  #github:hover{ 
 color: lightgrey;
   }
+
+.form-wufoo { 
+margin:60px;
+ }
