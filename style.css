@@ -1,0 +1,109 @@
+
+/* style.css */
+body{
+  font-weight: lighter;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  opacity: 80%;
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+#banner h1 {
+	text-align: center;	
+  font-family:'Merriweather', serif;
+  color: #1B4079;
+  font-weight: bolder;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px white;
+}
+
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  text-align: center;
+  font-weight: lighter;
+
+}
+
+.card-blue {
+  background-color: #8EB8E5;
+  padding:55px;
+}
+
+.card-blue2 
+{
+  background-color: #7C99B4;
+  padding:50px;
+}
+
+.card-blue3 {
+  background-color: #ADEEE3;
+  padding:50px;
+}
+
+.card-blue4 {
+  background-color: #63B995;
+  padding:55px;
+}
+
+.card h2 {
+  font-family: 'Lora', serif;
+  color: #CBDF90; 
+  font-weight: lighter;
+  font-size: 35px;	
+}
+
+a {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+  color: yellow;
+}
+
+#footer{ 
+background-color: #CBDF90;
+color: #E8F0FF; 
+ }
+
+#footer a {
+  color: white;
+  font-size: 40px;
+  margin:30px;
+  padding: 25px;
+}
+#footer a:hover {
+  font-size: 50px;
+}
+
+#yt:hover{ 
+color: red
+ }
+
+ #fb:hover{ 
+color: blue;
+ }
+
+ #twitter:hover{ 
+color: lightblue;
+ }
+
+ #github:hover{ 
+color: lightgrey;
+  }
