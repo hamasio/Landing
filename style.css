@@ -38,28 +38,24 @@ body{
 .card{
   text-align: center;
   font-weight: lighter;
-
+  padding:50px;
 }
 
 .card-blue {
   background-color: #8EB8E5;
-  padding:50px;
 }
 
 .card-blue2 
 {
   background-color: #7C99B4;
-  padding:50px;
 }
 
 .card-blue3 {
   background-color: #ADEEE3;
-  padding:50px;
 }
 
 .card-blue4 {
   background-color: #63B995;
-  padding: 50px;
   padding-bottom: 85px;
 }
 
